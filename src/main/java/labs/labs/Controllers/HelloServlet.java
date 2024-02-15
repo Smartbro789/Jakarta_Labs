@@ -1,4 +1,4 @@
-package labs.labs;
+package labs.labs.Controllers;
 
 import java.io.*;
 import jakarta.servlet.http.*;
