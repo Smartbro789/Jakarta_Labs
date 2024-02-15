@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #333; /* Dark background color */
+    color: #fff; /* White text color */
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.member {
+    margin: 20px;
+    text-align: left;
+    transition: transform 0.3s ease-in-out;
+}
+
+.member:hover {
+    transform: scale(1.1);
+}
+
+.member img{
+    border-radius: 50%; /* Rounded shape for the images */
+    border: 5px solid #ccc; /* Border around the images */
+    width: 200px; /* Adjust size as needed */
+    height: 200px; /* Adjust size as needed */
+}
+
+.member p {
+    margin-top: 10px;
+    text-align: left;
+}
+
+.member a [alt="git"]{
+    border: none !important;
+    width: 64px; !important;
+    height: 64px; !important;
+}
+
+/* Smooth scrolling animation */
+html {
+    scroll-behavior: smooth;
+}
