@@ -5,8 +5,6 @@ body {
     color: #fff; /* White text color */
 }
 
-
-
 .container {
     display: flex;
     flex-wrap: wrap;
