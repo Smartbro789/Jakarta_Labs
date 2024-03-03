@@ -11,6 +11,6 @@
     <title>Admin Page</title>
 </head>
 <body>
-<h1>Admin Functioanl</h1>
+<h1>Admin Functional</h1>
 </body>
 </html>
