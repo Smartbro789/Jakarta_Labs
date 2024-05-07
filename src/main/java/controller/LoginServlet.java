@@ -1,4 +1,4 @@
-package labs.labs.Controllers;
+package controller;
 
 import jakarta.inject.Inject;
 import jakarta.servlet.ServletException;
